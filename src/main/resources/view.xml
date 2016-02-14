@@ -1,0 +1,8 @@
+<view>
+  <name>REALTIME_ANALYTICS</name>
+  <label>Real-time Analytics</label>
+  <version>1.0.0</version>
+  <instance>
+    <name>INSTANCE</name>
+  </instance>
+</view>
